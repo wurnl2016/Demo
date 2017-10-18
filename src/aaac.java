@@ -5,4 +5,5 @@ import java.util.Date;
  */
 public class aaac {
     Date date= new Date();
+    Date date= new Date();
 }
