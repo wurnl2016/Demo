@@ -5,5 +5,6 @@ import java.util.Date;
  */
 public class aaac {
     Date date= new Date();
+    Date date2= new Date();
 
 }
